@@ -1,0 +1,24 @@
+##[customization]
+
+B:showcustomizationbuttons = 'true';
+
+
+##[mainmenu]
+
+B:hiderealmsnotifications = 'false';
+B:hidelogo = 'false';
+B:hidebranding = 'true';
+B:showmainmenufooter = 'false';
+
+
+##[mainmenu_splash]
+
+I:splashrotation = '-20';
+B:hidesplashtext = 'false';
+I:splashoffsetx = '0';
+I:splashoffsety = '0';
+
+
+##[loading]
+
+S:gameintroanimation = '';

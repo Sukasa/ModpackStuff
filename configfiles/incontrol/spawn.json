@@ -1,0 +1,12 @@
+[
+	{
+		"passive": true,
+		"result": "deny"
+	},
+	{
+		"mob": "minecraft:zombie",
+		"result": "default",
+		"onjoin": true,
+		"healthmultiply": 2
+	}
+]
